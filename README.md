@@ -9,5 +9,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-![React](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/react.svg)
 
