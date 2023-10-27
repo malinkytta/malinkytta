@@ -10,3 +10,4 @@
 </div>
 
 
+### [![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,js,ts,firebase,vite)](https://skillicons.dev)
