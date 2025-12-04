@@ -3,4 +3,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,ps,react,js,ts,firebase,styledcomponents,vscode,vite,figma,cs)](https://skillicons.dev)
 
-[![Dina GitHub-statistik](https://github-readme-stats.vercel.app/api?username=malinkytta&show_icons=true&theme=vue)](https://github.com/malinkytta)
