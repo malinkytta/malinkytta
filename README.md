@@ -1,5 +1,11 @@
 # Hi, I'm Malin 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+%26+Software+Engineering+Student;Always+learning+something+new" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -16,15 +22,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,vscode,git" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malinkytta&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinkytta&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
