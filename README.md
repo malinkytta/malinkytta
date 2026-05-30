@@ -6,12 +6,12 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma,ps" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,dotnet,firebase,vite" />
   </a>
