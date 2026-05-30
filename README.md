@@ -1,6 +1,6 @@
 # Hi, I'm Malin 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Frontend+Developer;AI+%26+Software+Engineering+Student;Always+learning+something+new" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Frontend+Developer;Software+Development+%26+AI" />
 
 ---
 
