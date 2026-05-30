@@ -12,7 +12,8 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=malinkytta&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=malinkytta&theme=dracula&hide_border=true&layout=compact&hide=jupyter%20notebook)
+
 
 ---
 
@@ -21,3 +22,5 @@
 - 🌱 Exploring Python & .NET
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malinkytta/)
+
+
