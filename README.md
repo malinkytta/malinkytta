@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=malinkytta&theme=dracula&hide_border=true&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=malinkytta&theme=dracula&hide_border=true&layout=compact&hide=jupyter%20notebook&langs_count=6)
 
 
 ---
